@@ -1,5 +1,5 @@
 # SBM-mapping
-This repository provides the code for the SBM mapping manuscript (arxiv link to be added). In particular, it executes the scheme described by Figure 4 in the main text and reproduces Fig. 5b for SBM-SNAIL simulated dynamics of the FMO 4-site model.
+This repository provides the code for the SBM mapping article (JCTC, 19, 6564). In particular, it executes the scheme described by Figure 4 in the main text and reproduces Fig. 5b for SBM-SNAIL simulated dynamics of the FMO 4-site model.
 
 # Dependencies
 This package requires the following:
